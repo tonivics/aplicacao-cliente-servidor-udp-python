@@ -1,1 +1,1 @@
-# aplicacao-cliente-servidor-udp-python
+# Aplicação simples Cliente-Servidor em Python usando protocolo UDP
